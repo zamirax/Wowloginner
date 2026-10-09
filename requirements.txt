@@ -1,0 +1,6 @@
+keyring
+psutil
+pyautogui
+pygetwindow
+opencv-python
+pillow
