@@ -1,0 +1,9 @@
+## Interface: 11508, 20505, 30405, 40402, 50503
+## Title: Gold Farm Advisor
+## Notes: Uses Auctionator prices to rank your recipes, tell you what to farm, and which recipes to learn.
+## Author: Wowloginner
+## Version: 1.0
+## OptionalDeps: Auctionator
+## SavedVariables: GFA_DB
+
+GoldFarmAdvisor.lua
