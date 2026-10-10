@@ -17,3 +17,10 @@ Automating input may violate your game's ToS; use at your own risk.
 
 Copy the `GoldFarmAdvisor` folder into `World of Warcraft\_classic_era_\Interface\AddOns\` (or your version's AddOns folder), enable it, and type `/gfa`.
 Needs Auctionator. Tabs: My recipes (best crafts), What to farm (gold per 10 min from your own looting), Recipes to learn (open your trainer first).
+
+## RaidLeaderPro (WoW addon)
+
+Copy the `RaidLeaderPro` folder into your AddOns folder and type `/rlp` (or `/rlp ui` for a button panel).
+Pull timer with a pre-pull buff check, boss strategy posts, on-screen/raid/whisper alerts for key mechanics (Living Bomb, Mandokir gaze, Thaddius charges, Chromaggus breaths, ...), and a per-fight report of avoidable damage and deaths plus a lifetime leaderboard.
+Boss data lives in `Data.lua`; spell/mob names are matched in English, and were written from memory, so check them in-game and fix any that don't fire.
+An addon cannot make players avoid mechanics. It warns, tells them what to do, and records who failed.
