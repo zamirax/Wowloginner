@@ -1,10 +1,14 @@
 ## Interface: 11508, 20505, 30405, 40402, 50503
 ## Title: Raid Leader Pro
-## Notes: Pug raid leader assistant: pull timer, consumable check, boss strategies, mechanic alerts, avoidable-damage and death reports.
+## Notes: Configure each boss once, click Ready & Pull, and alerts, whispers and reports run themselves.
 ## Author: Wowloginner
-## Version: 1.0
-## SavedVariables: RLP_DB
+## Version: 2.0
+## SavedVariables: RaidLeaderPro_DB
 
 Data.lua
-Core.lua
+Util.lua
+Engine.lua
+Actions.lua
 UI.lua
+Slash.lua
+Bindings.xml

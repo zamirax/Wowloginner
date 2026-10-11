@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="RLP_READYPULL" header="RAIDLEADERPRO" category="ADDONS">RaidLeaderPro.ReadyPull()</Binding>
+  <Binding name="RLP_MUTE" category="ADDONS">RaidLeaderPro.SetMute(not RaidLeaderPro.db.mute)</Binding>
+  <Binding name="RLP_EXPLAIN" category="ADDONS">RaidLeaderPro.Explain()</Binding>
+</Bindings>
